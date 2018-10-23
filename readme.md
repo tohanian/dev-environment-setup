@@ -32,6 +32,14 @@ Check git version and update if necessary.
 
 Install [Atom](https://atom.io/)
 
+### Packages
+
+Install the following Atom packages:
+
+- file-icons
+- language-babel
+- prettier-atom
+
 ## Bash profile
 
 Add bash profile and OSX terminal profile
