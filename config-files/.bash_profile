@@ -1,8 +1,5 @@
-# This is a work in progress .bash_profile
-# TODO: fix text wrap
-
 # Prompt
-export PS1="\033[38;5;120m\]\W\[\033[38;5;203m\]\$(__git_ps1)\[\033[38;5;120m\] 🦄 "
+export PS1="\[\033[38;5;120m\]\W\[\033[38;5;203m\]\$(__git_ps1)\[\033[38;5;120m\] 🦄 "
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 
