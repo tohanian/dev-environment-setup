@@ -29,7 +29,7 @@ Install [Homebrew](http://brew.sh/):
 
 ## Atom
 
-Install [Atom](https://atom.io/).
+Install [Atom](https://atom.io/). Install CLI commands.
 
 ### Packages
 
@@ -38,6 +38,7 @@ Install the following Atom packages:
 - file-icons
 - language-babel
 - prettier-atom
+  - Add .prettierrc 
 
 ## Git
 
@@ -50,7 +51,7 @@ Install [Git](https://git-scm.com/):
 
 ## Bash profile
 
-1. `brew install bash-completion`, see config for macOS here: https://github.com/scop/bash-completion
+1. `brew install bash-completion`, see config for macOS here: https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
 2. Add bash profile and OSX terminal profile
 
 ## Node.js
